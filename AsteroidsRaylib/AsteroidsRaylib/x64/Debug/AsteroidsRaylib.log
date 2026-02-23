@@ -1,0 +1,24 @@
+﻿  GameObject.cpp
+  main.cpp
+D:\GitHubRepoNew\AsteroidsRaylib\AsteroidsRaylib\ship.h(51,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+D:\GitHubRepoNew\AsteroidsRaylib\AsteroidsRaylib\main.cpp(57,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  rock.cpp
+D:\GitHubRepoNew\AsteroidsRaylib\AsteroidsRaylib\rock.cpp(14,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\GitHubRepoNew\AsteroidsRaylib\AsteroidsRaylib\rock.cpp(15,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\GitHubRepoNew\AsteroidsRaylib\AsteroidsRaylib\rock.cpp(17,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ship.cpp
+D:\GitHubRepoNew\AsteroidsRaylib\AsteroidsRaylib\ship.h(51,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ship.cpp')
+  
+D:\GitHubRepoNew\AsteroidsRaylib\AsteroidsRaylib\ship.cpp(10,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\GitHubRepoNew\AsteroidsRaylib\AsteroidsRaylib\ship.cpp(11,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\GitHubRepoNew\AsteroidsRaylib\AsteroidsRaylib\ship.cpp(21,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\GitHubRepoNew\AsteroidsRaylib\AsteroidsRaylib\ship.cpp(22,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\GitHubRepoNew\AsteroidsRaylib\AsteroidsRaylib\ship.cpp(104,42): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GitHubRepoNew\AsteroidsRaylib\AsteroidsRaylib\ship.cpp(138,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  AsteroidsRaylib.vcxproj -> D:\GitHubRepoNew\AsteroidsRaylib\x64\Debug\AsteroidsRaylib.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
